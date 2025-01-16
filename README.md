@@ -105,3 +105,5 @@ Bankalar formu açılırken "Banka Hareketleri" kısmındaki Banka kısmı verit
 
 <img src="bankalar.JPG" width="600px;" Height="auto;">
 
+<br><br>
+Çıkış Butonuna Basıldıgında bizi kullanıcı giriş sayfasına yönlendirmekte.
