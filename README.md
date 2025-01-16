@@ -7,7 +7,7 @@ Form ilk açıldıgında bizi bir Kullanıcı Giriş Sayfası Karşılamakta ve 
 Sisteme Giriş Dogru ise ;
 <br>
 Bizi Dashboard Sayfasına atmakta. 
-<br>
+<br><br>
 <b>Dashboard Sayfasında bizi;</b>
 <br>
 <ul>
