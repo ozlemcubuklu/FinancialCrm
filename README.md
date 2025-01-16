@@ -75,3 +75,20 @@ Bankalar formu açılırken "Banka Hareketleri" kısmındaki Banka kısmı verit
 
 
 
+<br><br>
+<b>Faturalar Sayfasında bizi;</b>
+<ul>
+  <li>Fatura Listesi</li>
+  <li>Yeni Fatura Ekleme</li>
+  <li>Fatura Güncelleme</li>
+  <li>Fatura Silme</li>
+  <li>Toplam bakiye Gösterme</li>
+  <li>Toplam Gider Gösterme</li>
+</ul>
+ gibi işlemler karşılamakta.
+<br>
+ Ayrıca kategoriler comboboxa form yüklenirken veritabanından gelmektedir.
+
+<img src="faturalar.JPG" width="600px;" Height="auto;">
+
+
