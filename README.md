@@ -91,4 +91,15 @@ Bankalar formu açılırken "Banka Hareketleri" kısmındaki Banka kısmı verit
 
 <img src="giderler.JPG" width="600px;" Height="auto;">
 
+<br><br>
+<b>Banka Hareketleri  Sayfasında bizi;</b>
+<ul>
+  <li>3 bankaya ait hesaptaki Para<li>
+  <li>Son 5 Banka Hareketi </li>
+
+</ul>
+ gibi işlemler karşılamakta.
+<br>
+ 
+<img src="bankalar.JPG" width="600px;" Height="auto;">
 
