@@ -3,9 +3,13 @@ Bu projemiz C# Form Application ile yazılmış. Entity Framework Teknolojisinde
 
 Form ilk açıldıgında bizi bir Kullanıcı Giriş Sayfası Karşılamakta ve giriş yanlışsa sisteme girmeye izin vermemektedir.
 <img src="user.JPG" width="200px;" Height="auto;">
+<br>
 Sisteme Giriş Dogru ise ;
+<br>
 Bizi Dashboard Sayfasına atmakta. 
+<br>
 <b>Dashboard Sayfasında bizi;</b>
+<br>
 <ul>
   <li>Toplam Bakiye</li>
   <li>Fatura Giderleri</li>
@@ -14,4 +18,4 @@ Bizi Dashboard Sayfasına atmakta.
 </ul>
 karşılamakta.
 
-<img src="dashboard.JPG" width="200px;" Height="auto;">
+<img src="dashboard.JPG" width="600px;" Height="auto;">
