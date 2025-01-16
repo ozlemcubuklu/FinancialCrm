@@ -26,3 +26,17 @@ karşılamakta.
 <br>Kullanıcı ve Şifre Değiştirme ve Kullanıcı Listesi Karşılamakta.
 
 <img src="settings.JPG" width="600px;" Height="auto;">
+
+
+
+<br><br>
+<b>Kategoriler Sayfasında bizi;</b>
+<ul>
+  <li>Kategori Listesi</li>
+  <li>Yeni Kategori Ekleme</li>
+  <li>Kategori Güncelleme</li>
+  <li>Kategori Silme</li>
+</ul>
+ gibi işlemler karşılamakta.
+
+<img src="kategoriler.JPG" width="600px;" Height="auto;">
