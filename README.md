@@ -19,3 +19,10 @@ Bizi Dashboard Sayfasına atmakta.
 karşılamakta.
 
 <img src="dashboard.JPG" width="600px;" Height="auto;">
+
+
+<br><br>
+<b>Ayarlar Sayfasında bizi;</b>
+<br>Kullanıcı ve Şifre Değiştirme ve Kullanıcı Listesi Karşılamakta.
+
+<img src="settings.JPG" width="600px;" Height="auto;">
