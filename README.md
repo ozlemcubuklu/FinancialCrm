@@ -40,3 +40,27 @@ karşılamakta.
  gibi işlemler karşılamakta.
 
 <img src="kategoriler.JPG" width="600px;" Height="auto;">
+
+
+
+<br><br>
+<b>Bankalar Sayfasında bizi;</b>
+<ul>
+  <li>Yeni Hesap Ekleme</li>
+  <li>Hesap Güncelleme</li>
+  <li>Hesap Silme</li>
+  <li>Banka ve işlem tipine göre Hesap Hareketi Ekleme</li>
+</ul>
+ gibi işlemler karşılamakta.
+
+
+Bankalar formu açılırken "Banka Hareketleri" kısmındaki Banka kısmı veritabanından otomatik çekilmektedir.
+İşlem Tipi "Gelen havale" ise veritabanında Bank Process Tablosuna hesap hareketi olarak veri eklenmekte. Ayrıca Seçili bankaya göre o hesaba para girişi olmaktadır.
+İşlem Tipi "Giden havale" ise veritabanında Bank Process Tablosuna hesap hareketi olarak veri eklenmekte. Ayrıca Seçili bankaya göre o hesabtan para gideri olmaktadır.
+
+<img src="bankavehareketekleme.JPG" width="600px;" Height="auto;">
+
+
+
+
+
