@@ -76,12 +76,12 @@ Bankalar formu açılırken "Banka Hareketleri" kısmındaki Banka kısmı verit
 
 
 <br><br>
-<b>Faturalar Sayfasında bizi;</b>
+<b>Giderler Sayfasında bizi;</b>
 <ul>
-  <li>Fatura Listesi</li>
-  <li>Yeni Fatura Ekleme</li>
-  <li>Fatura Güncelleme</li>
-  <li>Fatura Silme</li>
+  <li>Gider Listesi</li>
+  <li>Yeni Gider Ekleme</li>
+  <li>Gider Güncelleme</li>
+  <li>Gider Silme</li>
   <li>Toplam bakiye Gösterme</li>
   <li>Toplam Gider Gösterme</li>
 </ul>
@@ -89,6 +89,6 @@ Bankalar formu açılırken "Banka Hareketleri" kısmındaki Banka kısmı verit
 <br>
  Ayrıca kategoriler comboboxa form yüklenirken veritabanından gelmektedir.
 
-<img src="faturalar.JPG" width="600px;" Height="auto;">
+<img src="giderler.JPG" width="600px;" Height="auto;">
 
 
