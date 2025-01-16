@@ -101,5 +101,7 @@ Bankalar formu açılırken "Banka Hareketleri" kısmındaki Banka kısmı verit
  gibi işlemler karşılamakta.
 <br>
  
+
+
 <img src="bankalar.JPG" width="600px;" Height="auto;">
 
