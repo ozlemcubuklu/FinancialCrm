@@ -61,5 +61,17 @@ Bankalar formu açılırken "Banka Hareketleri" kısmındaki Banka kısmı verit
 
 
 
+<br><br>
+<b>Faturalar Sayfasında bizi;</b>
+<ul>
+  <li>Fatura Listesi</li>
+  <li>Yeni Fatura Ekleme</li>
+  <li>Fatura Güncelleme</li>
+  <li>Fatura Silme</li>
+</ul>
+ gibi işlemler karşılamakta.
+
+<img src="faturalar.JPG" width="600px;" Height="auto;">
+
 
 
